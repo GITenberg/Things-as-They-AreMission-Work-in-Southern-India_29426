@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33906
     wikipedia: http://en.wikipedia.org/wiki/Amy_Carmichael
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29426#Things-as-They-AreMission-Work-in-Southern-India
 gutenberg_issued: '2009-07-16'
 gutenberg_type: Text
 identifiers:
